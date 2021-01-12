@@ -1,2 +1,11 @@
 
-@import url()
+@import url(https://github.com/LudwigBooysen/BetterDiscord/blob/main/Themes/Blue/Blue.css);
+
+:root {
+
+	--vbackground: red;
+	--vbackgroundposition: 0px;
+	--vbackgroundsize: 20px;
+	--vbackgroundblur: none;
+
+}

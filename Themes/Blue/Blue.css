@@ -1,0 +1,27 @@
+
+/* ~~~~		2.		BACKGROUND						~~~~ */
+
+body::before {
+	content: "";
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: fixed;
+	background: var(--vbackground) var(--vbackgroundposition)/var(--vbackgroundsize);
+	filter: blur(var(--vbackgroundblur));
+}
+/*
+#ace_settingsmenu_container,
+.uploadArea-3QgLtW,
+.backdropWithLayer-3_uhz4,
+.backdrop-1wrmKB {
+	background: var(--vbackdrop) var(--vbackdropposition)/var(--vbackdropsize) !important;
+	filter: blur(var(--vbackdropblur));
+	opacity: 1;
+	animation: none;
+}
+.backdropWithLayer-3_uhz4 {
+	z-index: -1;
+}
+*/
