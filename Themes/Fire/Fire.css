@@ -48,9 +48,9 @@
 	--vbackdropblur:				var(--backdropblur,					var(--vbackgroundblur));
 
 	--fontwhite1: 					11,150,210;
-	--fontwhite2: 					190,51,51;
-	--fontwhite3: 					190,51,51;
-	--fontwhite4: 					190,51,51;
+	--fontwhite2: 					11,150,210;
+	--fontwhite3: 					11,150,210;
+	--fontwhite4: 					11,150,210;
 }
 
 .theme-light, .theme-dark {
