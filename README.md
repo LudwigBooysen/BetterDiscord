@@ -1,5 +1,6 @@
 # BetterDiscord
 
-My custom Plugins and Themes made for BetterDiscord (a discord addon).
+Customized BD (Better Discord) themes and styles I made for a friend of mine.
+Feel free to contribute and / or use.
 
-Check it out <a href="https://betterdiscord.app/" target="_blank">here</a>
+<h2><a href="https://betterdiscord.app/" target="_blank">Better Discord</a></h2>
